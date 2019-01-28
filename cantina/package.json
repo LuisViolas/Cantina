@@ -1,0 +1,38 @@
+{
+  "name": "cantina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "css-loader": "^2.1.0",
+    "jquery": "^3.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.3.16",
+    "node-fetch": "^2.3.0",
+    "nodemailer": "^5.0.0",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "smtp": "^0.1.4",
+    "style-loader": "^0.23.1",
+    "vue": "^2.5.21",
+    "vue-loader": "^15.4.2",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/node": "^7.2.2",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
